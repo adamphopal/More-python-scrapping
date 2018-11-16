@@ -20,7 +20,7 @@ for letter in ascii_lowercase:
         if len(playerdata)!=0:
             playerdatasaved = playerdatasaved + "\n" + playerdata[1:]
 
-header = "Player,From,To,Pos,Ht,Wt,Birthdate,College" + "/n"
+header = "From,To,Pos,Ht,Wt,Birthdate,College" + "/n"
 file = open(os.path.expanduser("Basketball.csv"), "wb")
 file.write(bytes(header, encoding="ascii",errors='ignore'))
 file.write(bytes(playerdatasaved, encoding="ascii",errors='ignore'))
