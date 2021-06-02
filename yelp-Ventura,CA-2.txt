@@ -1,0 +1,775 @@
+Title: Tap’d Ventura
+Address: 546 E Main St
+
+Phone: (805) 667-8771
+
+Title: Poseidon Brewing Company
+Address: 5777 Olivas Park Dr
+
+Phone: (805) 477-0239
+
+Title: Oak&Main
+Address: 419 East Main St
+
+Phone: (805) 648-6862
+
+Title: The Bench Warmer
+Address: 1855 E Main St
+
+Phone: (805) 643-4303
+
+Title: Fluid State Beer Garden
+Address: 692 E Main St
+
+Phone: (805) 628-3107
+
+Title: The Garage
+Address: 1091 Scandia Ave
+
+Phone: (805) 647-9681
+
+Title: Barrel 33
+Address: 1067 E Thompson Blvd
+
+Phone: (805) 652-1810
+
+Title: The Cave
+Address: 4435 McGrath St
+
+Phone: (805) 642-9449
+
+Title: Ventura Coast Brewing
+Address: 76 South Oak St
+
+Phone: (805) 667-8640
+
+Title: Beachcomber Tavern
+Address: 206 Ocean Dr
+
+Phone: (805) 832-4223
+
+Title: Red Cove
+Address: 1809 E Main St
+
+Phone: (805) 643-1101
+
+Title: Bottle & Pint
+Address: 550 Collection Blvd
+
+Phone: (805) 278-0075
+
+Title: Keynote Lounge
+Address: 10245 Telephone Rd
+
+Phone: (805) 647-9390
+
+Title: Star Lounge
+Address: 343 E Main St
+
+Phone: (805) 648-4709
+
+Title: Dargan’s Irish Pub and Restaurant
+Address: 593 E Main St
+
+Phone: (805) 648-3001
+
+Title: Victoria Pub & Grill
+Address: 1413 S Victoria Ave
+
+Phone: (805) 650-0060
+
+Title: Tap’d Ventura
+Address: 546 E Main St
+
+Phone: (805) 667-8771
+
+Title: The Blue Agave Restaurant & Tequilas
+Address: 185 E Santa Clara St
+
+Phone: (805) 667-9180
+
+Title: The Saloon
+Address: 456 E Main St
+
+Phone: (805) 667-8550
+
+Title: Boatyard Pub
+Address: 1583 Spinnaker Dr
+
+Phone: (805) 850-0202
+
+Title: Bombay Bar & Grill
+Address: 143 S California St
+
+Phone: (805) 643-4404
+
+Title: The Green Room
+Address: 1559 Spinnaker Dr
+
+Phone: (805) 644-1500
+
+Title: Sans Souci Cocktail Lounge
+Address: 21 S Chestnut St
+
+Phone: (805) 643-4539
+
+Title: Anacapa Brewing
+Address: 472 E Main St
+
+Phone: (805) 643-2337
+
+Title: Duke’s Griddle ‘n Grill
+Address: 1124 S Seaward Ave
+
+Phone: (805) 667-8411
+
+Title: VinTura Tasting Room & Wine Rack
+Address: 14 S California St
+
+Phone: (805) 653-9463
+
+Title: Rudder Room
+Address: 2929 Ocean Dr
+
+Phone: (805) 985-6096
+
+Title: Brophy Bros
+Address: 1559 Spinnaker Dr
+
+Phone: (805) 639-0865
+
+Title: Aqua Bar
+Address: 450 E Harbor Blvd
+
+Phone: (805) 648-2100
+
+Title: Leashless Brewing
+Address: 585 E Thompson Blvd
+
+Phone: (805) 628-9474
+
+Title: The Thirsty Ox
+Address: 640 N Ventura Rd
+
+Phone: (805) 307-4142
+
+Title: Tap’d Ventura
+Address: 546 E Main St
+
+Phone: (805) 667-8771
+
+Title: Bottle & Pint
+Address: 550 Collection Blvd
+
+Phone: (805) 278-0075
+
+Title: Keynote Lounge
+Address: 10245 Telephone Rd
+
+Phone: (805) 647-9390
+
+Title: Star Lounge
+Address: 343 E Main St
+
+Phone: (805) 648-4709
+
+Title: Dargan’s Irish Pub and Restaurant
+Address: 593 E Main St
+
+Phone: (805) 648-3001
+
+Title: Victoria Pub & Grill
+Address: 1413 S Victoria Ave
+
+Phone: (805) 650-0060
+
+Title: Tap’d Ventura
+Address: 546 E Main St
+
+Phone: (805) 667-8771
+
+Title: The Blue Agave Restaurant & Tequilas
+Address: 185 E Santa Clara St
+
+Phone: (805) 667-9180
+
+Title: The Saloon
+Address: 456 E Main St
+
+Phone: (805) 667-8550
+
+Title: Boatyard Pub
+Address: 1583 Spinnaker Dr
+
+Phone: (805) 850-0202
+
+Title: Bombay Bar & Grill
+Address: 143 S California St
+
+Phone: (805) 643-4404
+
+Title: The Green Room
+Address: 1559 Spinnaker Dr
+
+Phone: (805) 644-1500
+
+Title: Sans Souci Cocktail Lounge
+Address: 21 S Chestnut St
+
+Phone: (805) 643-4539
+
+Title: Anacapa Brewing
+Address: 472 E Main St
+
+Phone: (805) 643-2337
+
+Title: Duke’s Griddle ‘n Grill
+Address: 1124 S Seaward Ave
+
+Phone: (805) 667-8411
+
+Title: VinTura Tasting Room & Wine Rack
+Address: 14 S California St
+
+Phone: (805) 653-9463
+
+Title: Rudder Room
+Address: 2929 Ocean Dr
+
+Phone: (805) 985-6096
+
+Title: Brophy Bros
+Address: 1559 Spinnaker Dr
+
+Phone: (805) 639-0865
+
+Title: Aqua Bar
+Address: 450 E Harbor Blvd
+
+Phone: (805) 648-2100
+
+Title: Leashless Brewing
+Address: 585 E Thompson Blvd
+
+Phone: (805) 628-9474
+
+Title: The Thirsty Ox
+Address: 640 N Ventura Rd
+
+Phone: (805) 307-4142
+
+Title: Grapes and Hops
+Address: 454 E Main St
+
+Phone: (805) 616-2375
+
+Title: BierBrats
+Address: 325 S Borchard Dr
+
+Phone: None
+
+Title: Stiix Billiards
+Address: 2520 E Main St
+
+Phone: (805) 641-2020
+
+Title: Squashed Grapes
+Address: 2351 E Main St
+
+Phone: (805) 643-7300
+
+Title: Santa Cruz Market
+Address: 1947 E Main St
+
+Phone: (805) 643-7810
+
+Title: The Shores Restaurant
+Address: 1031 Harbor Blvd
+
+Phone: (805) 394-0028
+
+Title: Copa Cubana
+Address: 1575 Spinnaker Dr
+
+Phone: (805) 642-9463
+
+Title: Limon y Sal
+Address: 598 E Main St
+
+Phone: (805) 628-3868
+
+Title: The 805 Bar & Grilled Cheese
+Address: 1575 Spinnaker Dr
+
+Phone: (805) 642-9463
+
+Title: The Draft Sports Bar at Mupu Grill
+Address: 930 E Main St
+
+Phone: (805) 420-9178
+
+Title: Tap’d Ventura
+Address: 546 E Main St
+
+Phone: (805) 667-8771
+
+Title: The Green Room
+Address: 1559 Spinnaker Dr
+
+Phone: (805) 644-1500
+
+Title: Sans Souci Cocktail Lounge
+Address: 21 S Chestnut St
+
+Phone: (805) 643-4539
+
+Title: Anacapa Brewing
+Address: 472 E Main St
+
+Phone: (805) 643-2337
+
+Title: Duke’s Griddle ‘n Grill
+Address: 1124 S Seaward Ave
+
+Phone: (805) 667-8411
+
+Title: VinTura Tasting Room & Wine Rack
+Address: 14 S California St
+
+Phone: (805) 653-9463
+
+Title: Rudder Room
+Address: 2929 Ocean Dr
+
+Phone: (805) 985-6096
+
+Title: Brophy Bros
+Address: 1559 Spinnaker Dr
+
+Phone: (805) 639-0865
+
+Title: Aqua Bar
+Address: 450 E Harbor Blvd
+
+Phone: (805) 648-2100
+
+Title: Leashless Brewing
+Address: 585 E Thompson Blvd
+
+Phone: (805) 628-9474
+
+Title: The Thirsty Ox
+Address: 640 N Ventura Rd
+
+Phone: (805) 307-4142
+
+Title: Grapes and Hops
+Address: 454 E Main St
+
+Phone: (805) 616-2375
+
+Title: BierBrats
+Address: 325 S Borchard Dr
+
+Phone: None
+
+Title: Stiix Billiards
+Address: 2520 E Main St
+
+Phone: (805) 641-2020
+
+Title: Squashed Grapes
+Address: 2351 E Main St
+
+Phone: (805) 643-7300
+
+Title: Santa Cruz Market
+Address: 1947 E Main St
+
+Phone: (805) 643-7810
+
+Title: The Shores Restaurant
+Address: 1031 Harbor Blvd
+
+Phone: (805) 394-0028
+
+Title: Copa Cubana
+Address: 1575 Spinnaker Dr
+
+Phone: (805) 642-9463
+
+Title: Limon y Sal
+Address: 598 E Main St
+
+Phone: (805) 628-3868
+
+Title: The 805 Bar & Grilled Cheese
+Address: 1575 Spinnaker Dr
+
+Phone: (805) 642-9463
+
+Title: The Draft Sports Bar at Mupu Grill
+Address: 930 E Main St
+
+Phone: (805) 420-9178
+
+Title: El Rey Cantina
+Address: 294 E Main St
+
+Phone: (805) 653-1111
+
+Title: Cronies Sports Grill
+Address: 2855 Johnson Dr
+
+Phone: (805) 650-6026
+
+Title: Q Club
+Address: 2362 N Oxnard Blvd
+
+Phone: (805) 278-1231
+
+Title: The Mad Rose
+Address: 543 E Main St
+
+Phone: (805) 628-3913
+
+Title: VFW Post 1679
+Address: 3801 Market St
+
+Phone: (805) 642-2674
+
+Title: Beach House Fish
+Address: 668 Harbor Blvd
+
+Phone: (805) 643-4783
+
+Title: The Hangar Bar
+Address: 824 E Santa Maria St
+
+Phone: (805) 525-7200
+
+Title: O-sabi Japanese Restaurant
+Address: 5795 Walker St
+
+Phone: (805) 642-6200
+
+Title: Chillax Hookah Lounge
+Address: 4239 Telegraph Rd
+
+Phone: (805) 339-0568
+
+Title: The Reef
+Address: 20TH Ave
+
+Phone: (805) 982-2923
+
+Title: Tap’d Ventura
+Address: 546 E Main St
+
+Phone: (805) 667-8771
+
+Title: Grapes and Hops
+Address: 454 E Main St
+
+Phone: (805) 616-2375
+
+Title: BierBrats
+Address: 325 S Borchard Dr
+
+Phone: None
+
+Title: Stiix Billiards
+Address: 2520 E Main St
+
+Phone: (805) 641-2020
+
+Title: Squashed Grapes
+Address: 2351 E Main St
+
+Phone: (805) 643-7300
+
+Title: Santa Cruz Market
+Address: 1947 E Main St
+
+Phone: (805) 643-7810
+
+Title: The Shores Restaurant
+Address: 1031 Harbor Blvd
+
+Phone: (805) 394-0028
+
+Title: Copa Cubana
+Address: 1575 Spinnaker Dr
+
+Phone: (805) 642-9463
+
+Title: Limon y Sal
+Address: 598 E Main St
+
+Phone: (805) 628-3868
+
+Title: The 805 Bar & Grilled Cheese
+Address: 1575 Spinnaker Dr
+
+Phone: (805) 642-9463
+
+Title: The Draft Sports Bar at Mupu Grill
+Address: 930 E Main St
+
+Phone: (805) 420-9178
+
+Title: El Rey Cantina
+Address: 294 E Main St
+
+Phone: (805) 653-1111
+
+Title: Cronies Sports Grill
+Address: 2855 Johnson Dr
+
+Phone: (805) 650-6026
+
+Title: Q Club
+Address: 2362 N Oxnard Blvd
+
+Phone: (805) 278-1231
+
+Title: The Mad Rose
+Address: 543 E Main St
+
+Phone: (805) 628-3913
+
+Title: VFW Post 1679
+Address: 3801 Market St
+
+Phone: (805) 642-2674
+
+Title: Beach House Fish
+Address: 668 Harbor Blvd
+
+Phone: (805) 643-4783
+
+Title: The Hangar Bar
+Address: 824 E Santa Maria St
+
+Phone: (805) 525-7200
+
+Title: O-sabi Japanese Restaurant
+Address: 5795 Walker St
+
+Phone: (805) 642-6200
+
+Title: Chillax Hookah Lounge
+Address: 4239 Telegraph Rd
+
+Phone: (805) 339-0568
+
+Title: The Reef
+Address: 20TH Ave
+
+Phone: (805) 982-2923
+
+Title: The Lookout Bar & Grill
+Address: 2800 Harbor Blvd
+
+Phone: (805) 985-9300
+
+Title: Yard House
+Address: 501 Collection Blvd
+
+Phone: (805) 981-8707
+
+Title: Wood Ranch BBQ & Grill
+Address: 3449 E Main St
+
+Phone: (805) 620-4500
+
+Title: Garman’s Restaurant & Irish Pub
+Address: 932 E Main St
+
+Phone: (805) 933-4600
+
+Title: Camelot Room
+Address: 1331 W Gonzales Rd
+
+Phone: (805) 485-8502
+
+Title: Red Tandem Brewery
+Address: 1009 Harbor Blvd
+
+Phone: (805) 832-4023
+
+Title: Paradise Pantry
+Address: 222 E Main St
+
+Phone: (805) 641-9440
+
+Title: Sea Rounders
+Address: 2670 S Ventura Rd
+
+Phone: (805) 487-3720
+
+Title: Amigos Sports Bar & Grill
+Address: 2831 E Vineyard Ave
+
+Phone: (805) 278-0099
+
+Title: Aloha Steakhouse
+Address: 364 S California St
+
+Phone: (805) 652-1799
+
+Title: Tap’d Ventura
+Address: 546 E Main St
+
+Phone: (805) 667-8771
+
+Title: The Tower Club
+Address: 546 E Main St
+
+Phone: (805) 983-7777
+
+Title: Prime Steakhouse
+Address: 2009 E Thompson Blvd
+
+Phone: (805) 652-1055
+
+Title: Caffe Verona
+Address: 650 W Harvard Blvd
+
+Phone: (805) 420-9420
+
+Title: The Club House Sports Bar & Grill
+Address: 369 Arneill Rd
+
+Phone: (805) 388-1992
+
+Title: Gil’s Cantina
+Address: 369 Arneill Rd
+
+Phone: None
+
+Title: Crave Lounge
+Address: 281 W Main St
+
+Phone: None
+
+Title: Corner Pocket Billiards
+Address: 658 S A St
+
+Phone: (805) 832-4503
+
+Title: Cocovin Restaurant & Bar
+Address: 4308 Tradewinds Dr
+
+Phone: (805) 985-5614
+
+Title: Black Angus Steakhouse
+Address: 4718 Telephone Rd
+
+Phone: (805) 644-7323
+
+Title: Outlaws Grill and Saloon
+Address: 2167 Pickwick Dr
+
+Phone: (805) 484-3691
+
+Title: EMC Seafood & Raw Bar
+Address: 511 Town Center Dr
+
+Phone: (805) 278-4997
+
+Title: Relm Wine & Beer Bistro
+Address: 2390 Las Posas Rd
+
+Phone: (805) 991-7356
+
+Title: Rock City Studios
+Address: 2258 Pickwick Dr
+
+Phone: (805) 383-3555
+
+Title: Ventura Theatre
+Address: 26 S Chestnut St
+
+Phone: (805) 653-0721
+
+Title: Adolfo Grill
+Address: 67 Daily Dr
+
+Phone: (805) 482-3200
+
+Title: El Tapatio Night Club
+Address: 663 S Oxnard Blvd
+
+Phone: (805) 483-3811
+
+Title: The Lamplighter
+Address: 1936 Ventura Blvd
+
+Phone: (805) 484-2113
+
+Title: La Dolce Vita
+Address: 740 S B St
+
+Phone: (805) 486-6878
+
+Title: El Gramo de Oro
+Address: 1498 E Harvard Blvd
+
+Phone: (805) 947-6370
+
+Title: Drink
+Address: 281 W Main St
+
+Phone: (805) 643-9378
+
+Title: Que Pasa
+Address: 2433 Ventura Blvd
+
+Phone: (805) 586-9777
+
+Title: Roger’s Cafe
+Address: 1026 Mountain View Ave
+
+Phone: (805) 486-1040
+
+Title: Ric’s Restaurant & Sports Lounge
+Address: 2500 Las Posas Rd
+
+Phone: (805) 389-9919
+
+Title: The Wine Closet
+Address: 2423 Ventura Blvd
+
+Phone: (805) 383-9812
+
+Title: Applebee’s Grill + Bar
+Address: 291 W Ventura Blvd
+
+Phone: (805) 445-7160
+
+Title: El Coyote Bar & Grill
+Address: 601 S Oxnard Blvd
+
+Phone: (805) 483-1919
+
+Title: Cronies Sports Grill
+Address: 370 N Lantana St
+
+Phone: (805) 482-5900
+
+Title: Flat Fish Brewing
+Address: 126 N Wood Rd
+
+Phone: (805) 484-9600
+
+Title: Sheila’s Place
+Address: 330 N Lantana St
+
+Phone: (805) 987-9800
+
+Title: Buffalo Wild Wings
+Address: 1600 East Gonzales Road
+
+Phone: (805) 988-9464
+
